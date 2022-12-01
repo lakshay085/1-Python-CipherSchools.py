@@ -1,3 +1,4 @@
+@@ -0,0 +1,41 @@
 #delimeter is only\ncharacter.
 a=input()
 print(a)
